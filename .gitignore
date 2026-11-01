@@ -1,0 +1,9 @@
+build/
+build-release/
+.cache/
+compile_commands.json
+tools/
+AppDir/
+dist/
+*.AppImage
+*.deb

@@ -1,0 +1,11 @@
+{
+	"cmake.configureOnOpen": true,
+	"cmake.buildDirectory": "${workspaceFolder}/build",
+	"cmake.debugConfig": {
+		"cwd": "${workspaceFolder}/assets"
+	},
+	"cmake.launchCwd": "${workspaceFolder}/assets",
+	"files.associations": {
+		"*.xml": "xml"
+	}
+}

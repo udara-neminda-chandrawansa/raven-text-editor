@@ -1,0 +1,5 @@
+<Window Title="Text Editor" Width="800" Height="600" MinWidth="400" MinHeight="300">
+	<VBox Slot.Padding="16">
+		<TextEditor Name="editor" Slot.Fill="1" Wrap="True" FontSize="14"/>
+	</VBox>
+</Window>
